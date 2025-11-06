@@ -36,8 +36,8 @@ dependencies {
     modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 
     // Fabric API. This mod works on both Fabric and Quilt (Quilt can run Fabric mods via QFAPI)
-    // Update this version to match the correct Fabric API version for 1.21.8
-    modImplementation "net.fabricmc.fabric-api:fabric-api:0.133.4+1.21.8"
+    // Using a version compatible with 1.21.6-1.21.10 range (building against 1.21.6)
+    modImplementation "net.fabricmc.fabric-api:fabric-api:0.123.1+1.21.6"
 }
 
 processResources {
