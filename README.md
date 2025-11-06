@@ -6,7 +6,8 @@ A Minecraft mod that allows you to customize bubble column speeds for both magma
 
 In vanilla Minecraft, soul sand creates bubble columns that push entities upward, while magma blocks create bubble columns that pull entities downward. However, the downward pull of magma blocks is slower than the upward push of soul sand. This mod makes magma blocks pull entities down at the same speed that soul sand pushes them up (by default), and allows you to customize both speeds via configuration.
 
-**Server-side only:** This mod works when installed only on the server - clients do not need to install it!
+**Server-side only:** This mod works when installed only on the server - clients do not need to install it! (clients can install if you want this in single player)
+
 
 ## Supported Versions
 
