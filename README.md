@@ -10,12 +10,11 @@ In vanilla Minecraft, soul sand creates bubble columns that push entities upward
 
 ## Supported Versions
 
-- **Minecraft 1.21.8** (Current target)
-- Planned support for 1.21.9 and 1.21.10
+- **Minecraft 1.21.6 - 1.21.10**
 
 ## Requirements
 
-- Minecraft 1.21.8
+- Minecraft 1.21.6 - 1.21.10
 - Fabric Loader 0.16.0+ or Quilt Loader (for Quilt)
 - Fabric API (included in build)
 - Java 21 or higher
@@ -23,14 +22,14 @@ In vanilla Minecraft, soul sand creates bubble columns that push entities upward
 ## Installation
 
 ### For Fabric:
-1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 1.21.8
+1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 1.21.6 - 1.21.10
 2. Install [Fabric API](https://modrinth.com/mod/fabric-api)
 3. Download the latest release of this mod from the [Releases](https://github.com/fuglong/BubbleColumnTweaks_Mod/releases) page
 4. Place the downloaded `.jar` file into your `mods` folder
 5. Launch Minecraft
 
 ### For Quilt:
-1. Install [Quilt Loader](https://quiltmc.org/en/install/) for Minecraft 1.21.8
+1. Install [Quilt Loader](https://quiltmc.org/en/install/) for Minecraft 1.21.6 - 1.21.10
 2. Install [Quilted Fabric API (QFAPI)](https://modrinth.com/mod/qsl) (provides Fabric API compatibility)
 3. Download the latest release of this mod from the [Releases](https://github.com/fuglong/BubbleColumnTweaks_Mod/releases) page
 4. Place the downloaded `.jar` file into your `mods` folder
